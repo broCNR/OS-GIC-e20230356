@@ -1,0 +1,11 @@
+/home/gic-chea-somanarath/oslab-work/lab1/task2_files
+garden.txt
+silver.txt
+garden.txt
+silver.txt
+silver_copy.txt
+garden_renamed.txt
+silver.txt
+silver_copy.txt
+garden_renamed.txt
+silver.txt
