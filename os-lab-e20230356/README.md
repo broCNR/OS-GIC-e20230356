@@ -18,8 +18,7 @@ Briefly describe what you observed about your OS and kernel. Which number is the
 - Operating System: Ubuntu Linux
 - Kernel version: 6.8.0-40-generic (example; use the version shown on your computer).
 - Distribution version: Ubuntu 24.04.1 LTS (example; use your actual output).
-Observation: The kernel is the core of the operating system that manages hardware and system resources. Ubuntu is the Linux distribution that includes the kernel and other software.
-
+  Observation: The kernel is the core of the operating system that manages hardware and system resources. Ubuntu is the Linux distribution that includes the kernel and other software.
 
 ---
 
@@ -29,7 +28,7 @@ Briefly describe your experience creating, copying, renaming and deleting files.
 
 <!-- You may show the contents of task2_file_commands.txt here; no screenshot needed. -->
 
-/home/gic-huong-phynann/oslab-work/lab1/task2_files
+/home/gic-chea-somanrath/oslab-work/lab1/task2_files
 garden.txt
 silver.txt
 garden.txt
