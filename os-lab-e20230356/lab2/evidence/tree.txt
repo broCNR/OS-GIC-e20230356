@@ -1,0 +1,6 @@
+reports/budget 2026.txt
+reports/README.txt
+reports/vendor list.txt
+TechCorp/Finance/archive/first-original.txt
+TechCorp/Finance/budget 2026.txt
+TechCorp/Finance/vendor list.txt
